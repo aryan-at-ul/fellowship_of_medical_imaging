@@ -1,6 +1,6 @@
 # fellowship_of_medical_imaging
 
-![medical images](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheconversation.com%2Fmondays-medical-myth-we-only-use-10-of-our-brain-1613&psig=AOvVaw1W4XOyME-7FduPsSoMgyRP&ust=1637170337579000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPi47fW0nfQCFQAAAAAdAAAAABAD)
+![medical images](https://images.theconversation.com/files/1621/original/Wellunwell.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip)
 
 repo for hands on medical imaging techniques. 
 
