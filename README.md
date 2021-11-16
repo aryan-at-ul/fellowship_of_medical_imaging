@@ -1,5 +1,7 @@
 # fellowship_of_medical_imaging
 
+![medical images](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheconversation.com%2Fmondays-medical-myth-we-only-use-10-of-our-brain-1613&psig=AOvVaw1W4XOyME-7FduPsSoMgyRP&ust=1637170337579000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPi47fW0nfQCFQAAAAAdAAAAABAD)
+
 repo for hands on medical imaging techniques. 
 
 env name : mienv , python3.8
