@@ -14,4 +14,5 @@ pip install -r requirement.txt
 ```
 
 [timeline sheet](https://bit.ly/3CnpM7m)
+[weeekly presentation](https://bit.ly/3CuOjHZ)
 
