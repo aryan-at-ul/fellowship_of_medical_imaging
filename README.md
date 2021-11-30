@@ -16,3 +16,6 @@ pip install -r requirement.txt
 [timeline sheet](https://bit.ly/3CnpM7m)
 [weeekly presentation](https://bit.ly/3CuOjHZ)
 
+
+![mathematical introduction to cnn DEC1](https://cs.nju.edu.cn/wujx/paper/CNN.pdf)
+
