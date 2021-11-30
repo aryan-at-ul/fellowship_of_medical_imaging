@@ -17,5 +17,6 @@ pip install -r requirement.txt
 [weeekly presentation](https://bit.ly/3CuOjHZ)
 
 
+[pre-requisite matrix](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 ![mathematical introduction to cnn DEC1](https://cs.nju.edu.cn/wujx/paper/CNN.pdf)
 
