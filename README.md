@@ -14,8 +14,10 @@ pip install -r requirement.txt
 ```
 
 [timeline sheet](https://bit.ly/3CnpM7m)
+
 [weeekly presentation](https://bit.ly/3CuOjHZ)
 
+[slack chats](https://join.slack.com/t/paper-readers/shared_invite/zt-14nkixsv5-i68b3Y63rIp8ZhwfAgxj1g)
 
 [pre-requisite matrix](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
