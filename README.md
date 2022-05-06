@@ -13,7 +13,7 @@ create a conda env [there happens to be some issue with some versions on M1 chip
 pip install -r requirement.txt
 ```
 
-[timeline sheet](https://bit.ly/3CnpM7m)
+<!-- [timeline sheet](https://bit.ly/3CnpM7m) -->
 
 [weeekly presentation](https://bit.ly/3CuOjHZ)
 
